@@ -1,0 +1,20 @@
+patterns = {
+    r'what(\'s|\sis)\syour\sname': ["My name is Maya.", "You can call me Maya."],
+    r'hello|hi|hey': ["Hello!", "Hi there!", "Hey!"],
+    r'how\sare\syou': ["I'm doing well, thank you for asking.", "I'm good, how about you?"],
+    r'what\scan\syoudo': ["I can provide information, answer questions, set reminders, and more."],
+    r'what\scan\syoudo\sforyou': ["I can help you with tasks, provide information, entertain you, and more."],
+    r'who\smade\syou': ["I was created by Awortu Ibenem.", "My developer is Awortu Ibenem."],
+    r'are\syou\sa\srobot': ["I'm an AI assistant, but I'm not a robot in the physical sense."],
+    r'where\sare\syou\sbased': ["I exist in the digital realm, ready to assist you wherever you are."],
+    r'can\syou\slearn': ["Yes, I can learn from interactions and improve over time."],
+    r'what\sisthe\swather\slike\stoday': ["The weather today is [weather_description] with a temperature of [temperature]."],
+    r'tell\sme\sa\srandom\sfact': ["Did you know that I was Developed By A Nigerian Named Awortu Ibenem?"],
+    r'can\syou\srecommend\sme\sa\sbook': ["Sure, how about Diary Of A Wimpy Kid by Jeff Kinney? It's a great read!"],
+    r'can\syou\srecommend\sme\sa\smovie': ["I suggest watching The Conjuring. It has great reviews!"],
+    r'remind\sme\sto\scode\s[time]': ["I'll remind you to code at 3pm."],
+    r'tell\sme\sa\sjoke': ["Why did the scarecrow win an award? Because he was outstanding in his field!"],
+    r'what\sis\slove': ["Love is a complex emotion that varies from person to person."],
+    r'what\sis\sthe\spurpose\sof\slife': ["The purpose of life is a philosophical question with many interpretations."],
+    
+}
